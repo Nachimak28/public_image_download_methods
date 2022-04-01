@@ -1,0 +1,4 @@
+joblib==1.0.1
+pillow==8.3.2
+requests==2.27.1
+tqdm==4.62.2
